@@ -1,4 +1,4 @@
-This is an alternative portfolio written on Next.js (My first project with Next.js), and we used TypeScript for typing.
+This is an alternative portfolio written on Next.js (My first project with Next.js), and I've used TypeScript for typing.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
