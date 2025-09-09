@@ -27,6 +27,7 @@ TypeScript (typing)
 Tailwind CSS (styles)
 
 
+<img width="1768" height="919" alt="{35734FDB-1514-4AB0-A3F7-97BE2BC75E37}" src="https://github.com/user-attachments/assets/76e106af-af08-4503-92c0-240af224be29" />
 
 
 
